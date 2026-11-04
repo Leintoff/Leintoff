@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4A6C0&center=true&vCenter=true&width=435&lines=crybaby+and+professional+snack+enthusiast;turning+coffee+into+code;always+learning+something+new;let's+build+something" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4A6C0&center=true&vCenter=true&width=435&lines=.    crybaby+and+professional+snack+enthusiast;turning+coffee+into+code;always+learning+something+new;let's+build+something" alt="Typing animation" />
 </p>
 
 <br>
@@ -32,7 +32,6 @@
 </p>
 
 <br>
-## say hello
 <p align="center">
-  <sub>thanks for stopping by. i hope your day is full of green checkmarks.</sub>
+  <sub>thanks for stopping by.</sub>
 </p>
