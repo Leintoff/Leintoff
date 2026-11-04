@@ -1,11 +1,11 @@
-<h1 align="center">hi, i'm V</h1>
+<h1 align="center">hi, i'm val</h1>
 
 <p align="center">
   <i>a tiny corner of the internet where i keep my code</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4A6C0&center=true&vCenter=true&width=435&lines=developer+and+professional+snack+enthusiast;turning+coffee+into+code;always+learning+something+new;let's+build+something+lovely" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4A6C0&center=true&vCenter=true&width=435&lines=crybaby+and+professional+snack+enthusiast;turning+coffee+into+code;always+learning+something+new;let's+build+something" alt="Typing animation" />
 </p>
 
 <br>
